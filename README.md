@@ -1,2 +1,2 @@
 # my-first-repo
-Learning GitHub
+Learning how GitHub work.
